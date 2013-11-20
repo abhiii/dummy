@@ -5,7 +5,7 @@
 //  Created by Hadi Hatinoglu on 20/11/13.
 //  Copyright (c) 2013 Baraansoft. All rights reserved.
 //
-
+//do dod odoodododo dodÇÇ
 #import "AppDelegate.h"
 
 @implementation AppDelegate
